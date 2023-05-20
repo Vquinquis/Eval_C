@@ -1,0 +1,5 @@
+﻿  Exos.cpp
+E:\SpéProg\CPP_Quinquis_Vincent\Exos.cpp(53,23): warning C4018: '<' : incompatibilité signed/unsigned
+E:\SpéProg\CPP_Quinquis_Vincent\Exos.cpp(19): warning C4715: 'ex1' : les chemins de contrôle ne retournent pas tous une valeur
+E:\SpéProg\CPP_Quinquis_Vincent\Exos.cpp(36): warning C4715: 'ex2' : les chemins de contrôle ne retournent pas tous une valeur
+  CPP_Quinquis_Vincent.vcxproj -> E:\SpéProg\CPP_Quinquis_Vincent\Debug\CPP_Quinquis_Vincent.exe
